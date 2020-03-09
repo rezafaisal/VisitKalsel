@@ -1,2 +1,3 @@
-# VisitKalsel
-Website of Travel Destination in South Borneo 
+# VisitKalsel an Website of Travel Destinations in South Borneo 
+
+Ini adalah project website destinasi wisata di Kalimantan Selatan.
